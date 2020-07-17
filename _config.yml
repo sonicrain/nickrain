@@ -5,8 +5,8 @@ description: "Jekyll template, Medium styled, free for bloggers."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /nickrain
-google_analytics: ''
-disqus: 'demowebsite'
+google_analytics: 'UA-172945140-2'
+disqus: 'd'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
